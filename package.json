@@ -28,8 +28,6 @@
     "@types/aos": "^3.0.4",
     "@types/scrollreveal": "^0.0.8",
     "autoprefixer": "^10.4.14",
-    "eslint": "^8.47.0",
-    "eslint-plugin-react": "^7.33.2",
     "postcss": "^8.4.24",
     "tailwindcss": "^3.3.2"
   }
